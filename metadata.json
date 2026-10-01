@@ -1,0 +1,6 @@
+{
+  "name": "RidePulse - Smart Taxi & Mobility",
+  "description": "Interactive taxi booking platform with bike, auto, cab tiers, self-drive, carpooling, courier delivery, live map tracking, and AI voice ride assistant.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
